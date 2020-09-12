@@ -12,6 +12,6 @@
     "discord.js": "^11.6.2",
     "discord.js-commando": "^0.10.0",
     "file-system": "^2.2.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
